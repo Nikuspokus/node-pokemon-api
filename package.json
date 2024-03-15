@@ -1,0 +1,17 @@
+{
+  "name": "node-pokemon-api",
+  "version": "1.0.0",
+  "description": "An awesome API Rest to handle some pokemon",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nicolas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
